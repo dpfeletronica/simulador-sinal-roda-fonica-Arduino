@@ -1,6 +1,6 @@
 ////                                       DPF ELETRÔNICA
 ////                                    SIMULADOR DE SINAL DE RODA FONIA
-////                                    VER 2.1   01/08/2020
+////                                    VER 2.1   18/08/2020
 
 ///Variaveis de memória
 int baixo=8;
